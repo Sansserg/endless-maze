@@ -119,6 +119,8 @@ void laberint()
 	int teleport_count = 5;
 	int last_point_of_player = 3;
 	int map[Nx][Ny];
+	srand((unsigned)time(NULL));
+
 	while (hp > 0)
 	{
 		xcharecter = 0, ycharecter = last_point_of_player;
@@ -436,8 +438,9 @@ void laberint()
 	
 }
 
-int menu(int key)
+int menu()
 {
+	int key = 0;
 	int status = 3;
 	setfillstyle(1, BLACK);
 	bar(0, 0, MaxX, MaxY);
@@ -456,11 +459,10 @@ int menu(int key)
 
 int main()
 {
-	srand((unsigned)time(NULL));
 	setlocale(LC_ALL, "Rus");
 	initwindow(MaxX, MaxY);
 	int key = 0;
-	if (menu(key) == 1)
+	if (menu() == 1)
 	{
 		cleardevice();
 		laberint();
