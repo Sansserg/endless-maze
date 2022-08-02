@@ -120,7 +120,6 @@ void laberint()
 	int last_point_of_player = 3;
 	int map[Nx][Ny];
 	srand((unsigned)time(NULL));
-
 	while (hp > 0)
 	{
 		xcharecter = 0, ycharecter = last_point_of_player;
@@ -396,9 +395,9 @@ void laberint()
 			fillellipse(930, 147, 10, 10);
 			setfillstyle(1, GREEN);
 			fillellipse(930, 147, 7, 7);
-			outtextxy(943, 140, "- это аптечка. Восполнит ваше HP. ЕСли оно менбше 10");
+			outtextxy(943, 140, "- это аптечка. Восполнит ваше HP. Еcли оно менmше 10");
 
-			outtextxy(920, 170, "А ещё. Не задерживайтесь на одном уровне долго. ");
+			outtextxy(920, 170, "Мой совет. Не задерживайтесь на одном уровне долго. ");
 			outtextxy(920, 200, "Иначе Вы умрёте. Если хотите взять паузу, нажмите ESC");
 
 			for (i = 0; i < n_volna; i++)
