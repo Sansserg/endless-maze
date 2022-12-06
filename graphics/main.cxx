@@ -190,12 +190,6 @@ void laberint()
 						}
 					}
 				}
-				if (obstacle_map[i][j] == 5)
-				{
-					setfillpattern(pattern, LIGHTGREEN);
-					bar(cage * i, cage * j, cage * i + cage, cage * j + cage);
-					map[i][j] = 5;
-				}
 			}
 		}
 		while ((xcharecter < Nx - 1) && (hp > 0))
@@ -404,7 +398,7 @@ void laberint()
 			{
 				for (j = 0; j < n_volna; j++)
 				{
-					obstacle_map[i][j] = 5;
+					map[i][j] = 5;
 				}
 			}
 			if (delay_volna == 5)

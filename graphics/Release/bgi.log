@@ -1,1 +1,75 @@
-﻿D:\Program Files\Microsoft\Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(439,5): error MSB8020: Не удается найти средства сборки для v143 (набор инструментов платформы = "v143"). Чтобы выполнить сборку с использованием средств сборки v143 установите средства сборки v143.  Кроме того, можно выполнить обновление до текущей версии средств Visual Studio, перейдя в меню "Проект" или щелкнув решение правой кнопкой мыши и выбрав "Обновить решение...".
+﻿  bgiout.cxx
+  dibutil.cxx
+  drawing.cxx
+D:\Programming\GItHub_Repositoris\test\graphics\drawing.cxx(819,9): warning C4101: 'tries': unreferenced local variable
+D:\Programming\GItHub_Repositoris\test\graphics\drawing.cxx(859,10): warning C4101: 'answer': unreferenced local variable
+D:\Programming\GItHub_Repositoris\test\graphics\drawing.cxx(1110,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  file.cxx
+  misc.cxx
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(595,39): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(595,46): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(595,53): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(595,60): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(595,67): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(595,74): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(595,81): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(595,88): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(596,39): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(596,46): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(596,53): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(596,60): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(596,67): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(596,74): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(596,81): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(596,88): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(597,39): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(597,46): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(597,53): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(597,60): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(597,67): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(597,74): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(597,81): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(597,88): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(598,39): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(598,46): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(598,53): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(598,60): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(598,67): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(598,74): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(598,81): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(598,88): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(599,39): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(599,46): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(599,53): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(599,60): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(599,67): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(599,74): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(599,81): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\misc.cxx(599,88): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+  mouse.cxx
+  palette.cxx
+  main.cxx
+D:\Programming\GItHub_Repositoris\test\graphics\main.cxx(114,19): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\main.cxx(114,19): warning C4309: 'initializing': truncation of constant value
+D:\Programming\GItHub_Repositoris\test\graphics\main.cxx(114,43): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\main.cxx(114,43): warning C4309: 'initializing': truncation of constant value
+D:\Programming\GItHub_Repositoris\test\graphics\main.cxx(115,32): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\main.cxx(115,32): warning C4309: 'initializing': truncation of constant value
+D:\Programming\GItHub_Repositoris\test\graphics\main.cxx(115,50): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Programming\GItHub_Repositoris\test\graphics\main.cxx(115,50): warning C4309: 'initializing': truncation of constant value
+D:\Programming\GItHub_Repositoris\test\graphics\main.cxx(377,4): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\Programming\GItHub_Repositoris\test\graphics\main.cxx(381,4): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\Programming\GItHub_Repositoris\test\graphics\main.cxx(425,2): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  text.cxx
+D:\Programming\GItHub_Repositoris\test\graphics\text.cxx(348,19): warning C4018: '<': signed/unsigned mismatch
+  winbgi.cxx
+D:\Programming\GItHub_Repositoris\test\graphics\winbgi.cxx(134,14): warning C4101: 'actual_color': unreferenced local variable
+D:\Programming\GItHub_Repositoris\test\graphics\winbgi.cxx(133,9): warning C4101: 'bgi_color': unreferenced local variable
+D:\Programming\GItHub_Repositoris\test\graphics\winbgi.cxx(494,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  winthread.cxx
+D:\Programming\GItHub_Repositoris\test\graphics\winthread.cxx(320,9): warning C4101: 'i': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 387 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  bgi.vcxproj -> D:\Programming\GItHub_Repositoris\test\graphics\Release\bgi.exe
